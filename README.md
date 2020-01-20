@@ -2,6 +2,9 @@
 
 ## Easy / Intermediate ⭐️
 
+### Take a Ten Minute Walk
+[6kyu](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript)  
+
 ### You're a Square
 
 [7kyu](https://www.codewars.com/kata/youre-a-square/javascript)
@@ -77,6 +80,7 @@
 -->
 
 ## Intermediate / Advanced ⭐️⭐️
+
 
 ### Validate Credit Card Number
 
