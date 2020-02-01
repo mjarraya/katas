@@ -171,3 +171,7 @@
 ### Next smaller number with the same digits
 
 [4kyu](https://www.codewars.com/kata/next-smaller-number-with-the-same-digits/train/javascript)
+
+### Defuse the bombs!
+
+[3kyu](https://www.codewars.com/kata/54d558c72a5e542c0600060f/train/javascript)  
