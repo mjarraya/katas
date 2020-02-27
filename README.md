@@ -81,6 +81,8 @@
 
 ## Intermediate / Advanced ⭐️⭐️
 
+### The Supermarket Queue
+[6kyu](https://www.codewars.com/kata/57b06f90e298a7b53d000a86/train/javascript)  
 
 ### Validate Credit Card Number
 
