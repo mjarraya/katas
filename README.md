@@ -2,6 +2,9 @@
 
 ## Easy / Intermediate ⭐️
 
+### Bouncing Balls
+[6kyu](https://www.codewars.com/kata/5544c7a5cb454edb3c000047/solutions/javascript)  
+
 ### Take a Ten Minute Walk
 [6kyu](https://www.codewars.com/kata/take-a-ten-minute-walk/train/javascript)  
 
